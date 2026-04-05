@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1cf4ff37-b7ee-4b1b-9ad8-90a6dafc8565" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/chin_weibo_remark_classfify.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_frontend/src/utils/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_frontend/src/views/BatchAnalysis.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_frontend/src/views/HistoryRecord.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_frontend/src/views/Home.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app_frontend/src/views/SingleQuery.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/model_train.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/model_validate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/test_stopwords.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/machine_learning/tokenizer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml_server/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ml_server/model_loader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/weibo-remark/label/二分类标签.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/chs-comments/label/test_validation_label.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/weibo-remark/test/corpus.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/chs-comments/test/corpus.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/weibo-remark/test/corpus_validation.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/chs-comments/test/corpus_validation.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/weibo-remark/train/neg.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/chs-comments/train/neg.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/weibo-remark/train/pos.txt" beforeDir="false" afterPath="$PROJECT_DIR$/data/chs-comments/train/pos.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/weibo-remark/train/tagging_corpus.xml" beforeDir="false" afterPath="$PROJECT_DIR$/data/chs-comments/train/tagging_corpus.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/deep_learning/data_helpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deep_learning/eval.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deep_learning/result_validate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deep_learning/text_cnn.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deep_learning/train.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/deep_learning/word2vec_helpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine_learning/train_and_validate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/machine_learning/validate_result.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pre_handle.py" beforeDir="false" afterPath="$PROJECT_DIR$/pre_handle.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="Vue Composition API Component" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;qixuxin407&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Geek12580/chin_weibo_remark_classfify.git&quot;,
+    &quot;accountId&quot;: &quot;8d8d7c84-eac1-4fe5-8938-bd339009eef1&quot;
+  }
+}</component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="3ANyfEGMO5UTv8U6kWcKntv67rS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.app.executor&quot;: &quot;Run&quot;,
+    &quot;Python.model_loader.executor&quot;: &quot;Run&quot;,
+    &quot;Python.model_train.executor&quot;: &quot;Run&quot;,
+    &quot;Python.model_validate.executor&quot;: &quot;Run&quot;,
+    &quot;Python.pre_handle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test_stopwords.executor&quot;: &quot;Run&quot;,
+    &quot;Python.train_and_validate.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;20.15.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;20.15.0&quot;,
+    &quot;javascript.preferred.runtime.type.id&quot;: &quot;node&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/chs_comments_sentiment_classify&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;C:/Users/12783/AppData/Roaming/JetBrains/PyCharm2025.3/node/versions/20.15.0/node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\PyCharm 2025.3.3\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;vue.recent.templates&quot;: [
+      &quot;Vue Composition API Component&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\chin_weibo_remark_classfify" />
+      <recent name="D:\chin_weibo_remark_classfify\machine_learning" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\chs_comments_sentiment_classify" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.31033.139" />
+        <option value="bundled-python-sdk-2653e85de345-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.31033.139" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="1cf4ff37-b7ee-4b1b-9ad8-90a6dafc8565" name="更改" comment="" />
+      <created>1772447423883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772447423883</updated>
+      <workItem from="1772447424914" duration="117000" />
+      <workItem from="1772517168964" duration="7956000" />
+      <workItem from="1772608193334" duration="23832000" />
+      <workItem from="1772698876673" duration="746000" />
+      <workItem from="1772699647392" duration="209000" />
+      <workItem from="1772699990662" duration="4051000" />
+      <workItem from="1772723434023" duration="577000" />
+      <workItem from="1772724243159" duration="584000" />
+      <workItem from="1772724882404" duration="4764000" />
+      <workItem from="1772894391632" duration="1271000" />
+      <workItem from="1773069767611" duration="733000" />
+      <workItem from="1775408497479" duration="1726000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/chin_weibo_remark_classfify$pre_handle.coverage" NAME="pre_handle 覆盖结果" MODIFIED="1772447443591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/chin_weibo_remark_classfify$test_stopwords.coverage" NAME="test_stopwords 覆盖结果" MODIFIED="1772523649074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine_learning" />
+    <SUITE FILE_PATH="coverage/chin_weibo_remark_classfify$model_validate.coverage" NAME="model_validate 覆盖结果" MODIFIED="1772648853259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine_learning" />
+    <SUITE FILE_PATH="coverage/chin_weibo_remark_classfify$train_and_validate.coverage" NAME="train_and_validate 覆盖结果" MODIFIED="1772648686720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine_learning" />
+    <SUITE FILE_PATH="coverage/chs_comments_sentiment_classify$model_validate.coverage" NAME="model_validate 覆盖结果" MODIFIED="1772700478804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine_learning" />
+    <SUITE FILE_PATH="coverage/chs_comments_sentiment_classify$model_loader.coverage" NAME="model_loader 覆盖结果" MODIFIED="1772700838517" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_server" />
+    <SUITE FILE_PATH="coverage/chs_comments_sentiment_classify$model_train.coverage" NAME="model_train 覆盖结果" MODIFIED="1772700354741" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine_learning" />
+    <SUITE FILE_PATH="coverage/chin_weibo_remark_classfify$app.coverage" NAME="app 覆盖结果" MODIFIED="1772646943266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_server" />
+    <SUITE FILE_PATH="coverage/chin_weibo_remark_classfify$model_loader.coverage" NAME="model_loader 覆盖结果" MODIFIED="1772639065212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ML_app" />
+    <SUITE FILE_PATH="coverage/chs_comments_sentiment_classify$app.coverage" NAME="app 覆盖结果" MODIFIED="1772726859991" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_server" />
+    <SUITE FILE_PATH="coverage/app_py$app.coverage" NAME="app 覆盖结果" MODIFIED="1773069801075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/ml_server" />
+  </component>
+</project>
